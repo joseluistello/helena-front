@@ -10,7 +10,7 @@ return (
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Hablar con alguien es dificil</h1>
       <p className="mb-8 leading-relaxed">Con un apoyo integral para crecimiento personal, Helena está diseñada para ayudarte a encontrar el equilibrio durante uno de los momentos más difíciles de la vida.</p>
       <div className="flex justify-center">
-        <button className="inline-flex text-white bg-teal-500 border-0 py-2 px-6 focus:outline-none hover:bg-teal-700 rounded text-lg">Chatea con Helena</button>
+        <a href="https://t.me/helena_gpt_bot" target="_blank" className="inline-flex text-white bg-teal-500 border-0 py-2 px-6 focus:outline-none hover:bg-teal-700 rounded text-lg">Chatea con Helena</a>
       </div>
     </div>
   </div>

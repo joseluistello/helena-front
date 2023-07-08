@@ -12,9 +12,9 @@ return (
       <span className="ml-3 text-xl">Helena</span>
     </a>
     <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-      <a className="mr-5 hover:text-gray-900">Producto</a>
-      <a className="mr-5 hover:text-gray-900">Caracteristicas</a>
-      <a className="mr-5 hover:text-gray-900">Instagram</a>
+      <a href="https://t.me/helena_gpt_bot" target="_blank" className="mr-5 hover:text-gray-900">Producto</a>
+      <a href="https://t.me/helena_gpt_bot" target="_blank" className="mr-5 hover:text-gray-900">Caracteristicas</a>
+      <a href="https://t.me/helena_gpt_bot" target="_blank" className="mr-5 hover:text-gray-900">Instagram</a>
     </nav>
   </div>
 </header>
