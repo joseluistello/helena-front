@@ -19,7 +19,7 @@ return (
 Estaremos contigo en todo momento, incluso en los momentos más difíciles de la vida.
   </p>
   <div className="mt-10 flex justify-center gap-x-6">
-    <a className="group inline-flex items-center justify-center rounded-full py-2 px-4 text-sm font-semibold focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900" target="_blank" href="https://t.me/helena_gpt_bot">Empieza ahora</a>
+    <a className="group inline-flex items-center justify-center rounded-full py-2 px-4 text-sm font-semibold focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900" target="_blank" href="https://t.me/helena_gpt_bot">Empieza ya</a>
   </div>
   <div className="mt-36 lg:mt-44">
     <p className="font-display text-base text-slate-900"></p>
