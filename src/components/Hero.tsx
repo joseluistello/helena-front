@@ -24,7 +24,7 @@ Estaremos contigo en todo momento, incluso en los momentos más difíciles de la
     <a className="group inline-flex items-center justify-center rounded-full py-2 px-4 text-sm font-semibold focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900" target="_blank" href="https://t.me/helena_gpt_bot">Empieza ahora</a>
   </div>
   <div className="mt-36 lg:mt-44">
-    <p className="font-display text-base text-slate-900">Confianza de estas seis empresas hasta ahora</p>
+    <p className="font-display text-base text-slate-900"></p>
     <ul role="list" className="mt-8 flex items-center justify-center gap-x-8 sm:flex-col sm:gap-x-0 sm:gap-y-10 xl:flex-row xl:gap-x-12 xl:gap-y-0"/>
   </div>
 </div>
