@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+  h1 {
+    word-break: break-word; /* o 'word-wrap: break-word;' para mayor compatibilidad */
+  }
+  
