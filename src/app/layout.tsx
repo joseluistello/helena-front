@@ -21,8 +21,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-        <head>
+      <head>
         <meta property="twitter:image" content="https://opengraphs.s3.us-east-2.amazonaws.com/Helena.jpeg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       </head>
       <body className={inter.className}>
       <HeaderSection/>
